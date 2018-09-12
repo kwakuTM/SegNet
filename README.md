@@ -36,3 +36,5 @@ python test.py [-h] [--model_path [MODEL_PATH]] [--dataroot [DATAROOT]]
   --img_path            Path of the input image
   --out_path            Path of the output segmap
 ```
+
+=> README under constrcution
