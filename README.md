@@ -1,2 +1,2 @@
-# SegNet
-Semantic Segmentation using SegNet implemented in PyTorch
+# PyTorch-SegNet
+# Semantic Segmentation using SegNet implemented in PyTorch
