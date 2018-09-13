@@ -33,5 +33,3 @@ python main.py [-h] [--dataroot [DATAROOT]]
   --img_path            Path of the input image
   --lbl_path            Path of the labelled image
 ```
-
-=> README under constrcution
