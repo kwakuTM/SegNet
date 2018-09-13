@@ -7,10 +7,6 @@
 <img src="images/s3.png" width="50"/>
 <img src="images/i_5.jpg" width="50"/>
 <img src="images/s5.png" width="50"/>
-<img src="images/i_0.jpg" width="50"/>
-<img src="images/s0.png" width="50"/>
-<img src="images/i_2.jpg" width="50"/>
-<img src="images/s2.png" width="50"/>
 </p>
 
 
