@@ -1,12 +1,16 @@
 # PyTorch-SegNet
 ## Semantic Segmentation using SegNet implemented in PyTorch
 
-<p align="center">
+<p align="left">
 <a href="https://www.youtube.com/watch?v=iXh9aCK3ubs" target="_blank"><img src="https://i.imgur.com/agvJOPF.gif" width="500"/></a>
-<img src="images/i_3.jpg" width="50"/>
-<img src="images/s3.png" width="50"/>
-<img src="images/i_5.jpg" width="50"/>
-<img src="images/s5.png" width="50"/>
+<img src="images/i_3.jpg" width="100"/>
+<img src="images/s3.png" width="100"/>
+<img src="images/i_5.jpg" width="100"/>
+<img src="images/s5.png" width="100"/>
+</p>
+
+<p align="center">
+<img src="images/segnet.png" width="200"/>
 </p>
 
 
