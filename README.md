@@ -2,7 +2,7 @@
 ## Semantic Segmentation using SegNet implemented in PyTorch
 
 <p align="left">
-<a href="https://www.youtube.com/watch?v=iXh9aCK3ubs" target="_blank"><img src="https://i.imgur.com/agvJOPF.gif" width="280"/></a>
+<a href="https://www.youtube.com/watch?v=iXh9aCK3ubs" target="_blank"><img src="https://i.imgur.com/agvJOPF.gif" width="350"/></a>
 <img src="images/i_3.jpg" width="125"/>
 <img src="images/s3.png" width="125"/>
 <img src="images/i_5.jpg" width="125"/>
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-<img src="images/segnet.png" width="200"/>
+<img src="images/segnet.png" width="900"/>
 </p>
 
 ### Requirements
