@@ -3,6 +3,10 @@
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=iXh9aCK3ubs" target="_blank"><img src="https://i.imgur.com/agvJOPF.gif" width="364"/></a>
+<img src="images/i_3.jpg" width="364"/></a>
+<img src="images/ss3.jpg" width="364"/></a>
+<img src="images/i_5.jpg" width="364"/></a>
+<img src="images/ss5.jpg" width="364"/></a>
 </p>
 
 
@@ -18,23 +22,15 @@
 
 **To train the model :**
 
-```
-python main.py [-h]
-
+**To train the model :**
 
 ```
-
-**To test the model w.r.t. a dataset on custom images(s):**
-
-```
-python test.py [-h] [--model_path [MODEL_PATH]] [--dataroot [DATAROOT]]
-               [[--train-data [IMG_PATH]] --label-data [LBL_PATH] [--out_path [OUT_PATH]]
+python main.py [-h] [--dataroot [DATAROOT]]
+               [[--train-data [IMG_PATH]] --label-data [LBL_PATH]
  
-  --model_path          Path to the saved model
-  --dataset             Dataset to use ['pascal, camvid, ade20k etc']
-  --dcrf                Enable DenseCRF based post-processing
+  --dataroot            root folder for project
   --img_path            Path of the input image
-  --out_path            Path of the output segmap
+  --lbl_path            Path of the labelled image
 ```
 
 => README under constrcution
