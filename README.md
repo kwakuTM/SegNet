@@ -22,8 +22,6 @@
 
 **To train the model :**
 
-**To train the model :**
-
 ```
 python main.py [-h] [--dataroot [DATAROOT]]
                [[--train-data [IMG_PATH]] --label-data [LBL_PATH]
