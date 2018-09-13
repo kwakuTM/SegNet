@@ -3,10 +3,10 @@
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=iXh9aCK3ubs" target="_blank"><img src="https://i.imgur.com/agvJOPF.gif" width="364"/></a>
-<img src="images/i_3.jpg" width="364"/></a>
-<img src="images/ss3.jpg" width="364"/></a>
-<img src="images/i_5.jpg" width="364"/></a>
-<img src="images/ss5.jpg" width="364"/></a>
+<img src="images/i_3.jpg" width="100"/></a>
+<img src="images/ss3.jpg" width="100"/></a>
+<img src="images/i_5.jpg" width="100"/></a>
+<img src="images/ss5.jpg" width="100"/></a>
 </p>
 
 
